@@ -19,6 +19,14 @@
   <li>The scoreboard will automatically update based on the input received from the serial port.</li>
 </ol>
 
+<h2>Tech Stack</h2>
+
+<ul>
+  <li>Visual C# – Windows Forms desktop application</li>
+  <li>.NET Framework – runtime and serial port communication</li>
+  <li>Arduino (C/C++) – hardware controller firmware</li>
+</ul>
+
 <h2>Dependencies</h2>
 
 <ul>

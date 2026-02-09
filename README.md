@@ -35,6 +35,10 @@
   <li>Arduino IDE</li>
 </ul>
 
+<h2>How It Works</h2>
+
+<p>The Arduino device reads button presses from the physical scoreboard hardware and sends score update commands over a serial connection (USB, COM3). The C# desktop application listens on the serial port, parses the incoming data, and updates the scoreboard display in real time.</p>
+
 <h2>Contributions</h2>
 
 <p>If you would like to contribute to the project, please create a pull request with a detailed explanation of your changes.</p>
